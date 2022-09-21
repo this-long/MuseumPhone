@@ -7,6 +7,7 @@ var dataMain = [
         "Material": "sandstone",
         "Description": "Walter Hill Fountain' commemorates the first curator of the Botanic Gardens, Walter Hill.",
         "Installed": "1867",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.475936",
         "Longitude": "153.030496"
     },
@@ -18,6 +19,7 @@ var dataMain = [
         "Material": "sandstone",
         "Description": "An ornate Victorian Revival Gothic style monument executed in sandstone. A memorial to James Thomas Mooney, a member of the Volunteer Fire Brigade, who died in 1877 from injuries recieved fighting a fire in Queen Street.",
         "Installed": "1879",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.465967",
         "Longitude": "153.030184"
     },
@@ -29,6 +31,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "Bronze memorial of Thomas Joseph Byrnes, premier of Queensland in 1898, though died shortly after in the same year . ",
         "Installed": "1902",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.460722",
         "Longitude": "153.032083"
     },
@@ -40,6 +43,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "Bronze memorial featuring a Boer War soldier on horseback. First erected in Turbot Street in 1919 and moved to Anzac Square in 1938/39",
         "Installed": "1919",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.466778",
         "Longitude": "153.026889"
     },
@@ -51,6 +55,7 @@ var dataMain = [
         "Material": "bronze ",
         "Description": "Bronze of Robbie Burns the Scottish poet. Bronze plaques of scenes from his poems decorate each side of a carved sandstone plinth. The thistle cornice is dedicated to the Scottish women of Brisbane who raised funds for the memorial.",
         "Installed": "1929",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.461301",
         "Longitude": "153.0318"
     },
@@ -62,6 +67,7 @@ var dataMain = [
         "Material": "sandstone",
         "Description": " A carved sandstone tympanum in the pediment above the main entrance of City Hall. Completed after the opening of the building in 1930",
         "Installed": "1930",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.468692",
         "Longitude": "153.023846"
     },
@@ -73,6 +79,7 @@ var dataMain = [
         "Material": "sandstone, bronze",
         "Description": "The Pools of Reflection found on the lower area of Anzac Square feature running water from a lion's head, which represents both the British Empire and the qualities of fortitude and courage.",
         "Installed": "1931",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.466333",
         "Longitude": "153.026583"
     },
@@ -84,6 +91,7 @@ var dataMain = [
         "Material": "sandstone",
         "Description": "A sculptured panel of infantry and horse drawn guns, erected by the women of Queensland in memory of 'all who lost their lives through the Great War 1914-18'.  Situated on the western wall of Anzac Square.",
         "Installed": "1932",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.466389",
         "Longitude": "153.026333"
     },
@@ -95,6 +103,7 @@ var dataMain = [
         "Material": "sandstone",
         "Description": "The sandstone drinking fountain is part of the Queensland Women's War Memorial and sits below the western relief wall of the Anzac Square Memorial. To support the bowl sculptor Daphne Mayo placed four bronze upturned dolphin fish, symbolising salvation and redemption for all, regardless of race, religion and political beliefs.",
         "Installed": "1932",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.466389",
         "Longitude": "153.026333"
     },
@@ -106,6 +115,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "The Sir William Glasgow Memorial was designed by Queensland sculptor Daphne Mayo and completed in 1964. It is in the form of a naturalistic bronze figure of Sir William, dressed in Australian Light Horse uniform and set on a granite plinth",
         "Installed": "1966",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.467",
         "Longitude": "153.027139"
     },
@@ -117,6 +127,7 @@ var dataMain = [
         "Material": "bronze, sandstone",
         "Description": "Sundial with carved sandstone, installed in the City Botanic Gardens in 1993.",
         "Installed": "1993",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.476222",
         "Longitude": "153.030833"
     },
@@ -128,6 +139,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "The King George V memorial statue was unveiled in Albert Square on 24 May 1938 following the King's death in 1936.",
         "Installed": "1938",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.468417",
         "Longitude": "153.023694"
     },
@@ -139,6 +151,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "The bronze Lions were comissioned as part of the King George V memorial, which traditionally symbolise the British Empire.",
         "Installed": "1938",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.468694",
         "Longitude": "153.023972"
     },
@@ -150,6 +163,7 @@ var dataMain = [
         "Material": "stainless steel",
         "Description": "A spiralling metal sculpture creating a central feature for the McCormick Place Fountain.  The fountain is in the form of a helix water sculpture, which rises from the base of a blue-tiled pool.",
         "Installed": "1971",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.466437",
         "Longitude": "153.015134"
     },
@@ -161,6 +175,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "Kenneth Armitage is noted as one of the most significant British sculptors of the 20th century, most recognised for his semi-abstract bronze works. Chair was one of one of seven artworks loaned by the artist to World Expo 88, and was later purchased by Brisbane City Council.",
         "Installed": "1983",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.476796",
         "Longitude": "152.978117"
     },
@@ -172,6 +187,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "Gestation' is the first work in a series of monumental sculptures created by American artist Baile Oakes. Commissioned for World Expo 88.",
         "Installed": "1988",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.470921",
         "Longitude": "153.023705"
     },
@@ -183,6 +199,7 @@ var dataMain = [
         "Material": "steel",
         "Description": "Robert Juniper is considered one of Australias most prominent interdisciplinary artists of the 20th century. 'Plant Form' was loaned by the artist for World Expo 88 and later purchased by Brisbane City Council.",
         "Installed": "1988",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.473917",
         "Longitude": "153.031222"
     },
@@ -194,6 +211,7 @@ var dataMain = [
         "Material": "sandstone",
         "Description": "Sandstone sculpture created as part of the Warana festivities and donated to the city by Besser (Qld) Ltd.",
         "Installed": "1988",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.474694",
         "Longitude": "153.0295"
     },
@@ -205,6 +223,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "Bronze monument depicting Australian soldiers in the Vietnam War.  ",
         "Installed": "1988",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.466523",
         "Longitude": "153.026366"
     },
@@ -216,6 +235,7 @@ var dataMain = [
         "Material": "granite ",
         "Description": "Inukshuk' means ' something which acts for or performs the function of a human' - a marker or way finder.  Gift from the Northwest Territories of Canada to the people of Queensland at the conclusion of World Expo '88.  ",
         "Installed": "1988",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.455614",
         "Longitude": "153.024089"
     },
@@ -227,6 +247,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "Forme del Mito is derived from the tragic story of Agamemnon from Ancient Greece. Created by renowned Italian sculptor Arnaldo Pomodoro and exhibited at World Expo '88. ",
         "Installed": "1989",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.465956",
         "Longitude": "153.024536"
     },
@@ -238,6 +259,7 @@ var dataMain = [
         "Material": "granite",
         "Description": "Memories of Wind' was one of four sculptures exhibited at World Expo 88 by Japanese artist Fumio Nishimura.",
         "Installed": "1989",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.465778",
         "Longitude": "153.023806"
     },
@@ -249,6 +271,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "Commissioned in 1993, five crooked bronze tapering points with a brushed surface.",
         "Installed": "1993",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.498167",
         "Longitude": "153.043611"
     },
@@ -260,6 +283,7 @@ var dataMain = [
         "Material": "steel",
         "Description": "The Man & Matter' Series consists of twelve steel sculptures installed along the Kangaroo Point Cliffs Boardwalk. Commissioned for the riverside promenade of Brisbanes World Expo 88, referencing the Expo 88 theme of Leisure in the Age of Technology",
         "Installed": "1989",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.478194",
         "Longitude": "153.034168"
     },
@@ -271,6 +295,7 @@ var dataMain = [
         "Material": "stainless steel",
         "Description": "Commissioned for World Expo '88, installed at the centre of 'Times Square' site. ",
         "Installed": "1989",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.474401",
         "Longitude": "153.028096"
     },
@@ -282,6 +307,7 @@ var dataMain = [
         "Material": "concrete, paint",
         "Description": "Commissioned for World Expo '88, installed near the Australian pavillion. Killick uses international media and events to create a collection of humorous motifs which is a recording of the political issues of the time. ",
         "Installed": "1989",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.46517",
         "Longitude": "153.035034"
     },
@@ -293,6 +319,7 @@ var dataMain = [
         "Material": "stainless steel",
         "Description": "Showdown was commissioned by Tasmanian sculptor Chris Beecroft for World Expo 88. Beecroft uses colour, shape and form in playful collaboration to celebrate themes of leisure in the age of technology.",
         "Installed": "1989",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.455783",
         "Longitude": "153.025982"
     },
@@ -304,6 +331,7 @@ var dataMain = [
         "Material": "stainless steel",
         "Description": "Commissioned in 1988, the sculpture formed part of the Artist in the Park programme, a Community Arts project initiated by Brirbane City Council.",
         "Installed": "1990",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.465694",
         "Longitude": "153.023694"
     },
@@ -315,6 +343,7 @@ var dataMain = [
         "Material": "steel",
         "Description": "Juxtaposition I' is a cement painted steel abstract sculpture, commissioned by Brisbane City Council  in 1990 with the assistance of the Visual Arts and Crafts Board of the Australian Council of the Arts.",
         "Installed": "1990",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.466083",
         "Longitude": "153.023778"
     },
@@ -326,6 +355,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "This work was commissioned during the bicentennial year to honour early Brisbane settlers.  It specifically depicts the Petrie family and their neighbours in 1842.",
         "Installed": "1990",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.468306",
         "Longitude": "153.023806"
     },
@@ -337,6 +367,7 @@ var dataMain = [
         "Material": "steel ",
         "Description": "The white painted steel sculpture features a bucket of flowers on a table and two framed landscapes; one real and one imaginary.",
         "Installed": "1990",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.465722",
         "Longitude": "153.023944"
     },
@@ -348,6 +379,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "Unveiled during the 50th Anniversary year of the Milne Bay and Kokoda Campaigns honouring participants in the South West Pacific campaign.",
         "Installed": "1992",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.466861",
         "Longitude": "153.026639"
     },
@@ -359,6 +391,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "Unveiled during the 50th Anniversary year of the Milne Bay and Kokoda Campaigns commemorating  Australians and allies who died or served in the 1939 to 1945 war.",
         "Installed": "1992",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.466556",
         "Longitude": "153.027"
     },
@@ -370,6 +403,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "Speakers Corner' depicts three important figures in Queenslands history  Emma Miller, Sir Charles Lilley and Steele Rudd.",
         "Installed": "1993",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.468528",
         "Longitude": "153.024639"
     },
@@ -381,6 +415,7 @@ var dataMain = [
         "Material": "found metals, concrete",
         "Description": "A stylised metal fish fossil made from found materials ",
         "Installed": "1995",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.4725",
         "Longitude": "153.03425"
     },
@@ -392,6 +427,7 @@ var dataMain = [
         "Material": "bronze",
         "Description": "A series of six bronze sculpture depicting Austrlaian animals attached to street lighting. ",
         "Installed": "1995",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.469477",
         "Longitude": "153.023743"
     },
@@ -403,6 +439,7 @@ var dataMain = [
         "Material": "timber",
         "Description": "Work by renowned Indigenous artist Ron Hurley. Six poles represent each star in the southern cross, and six clans identified by an old man named 'Geerbaugh'. ",
         "Installed": "1995",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.474266",
         "Longitude": "153.034465"
     },
@@ -414,6 +451,7 @@ var dataMain = [
         "Material": "found metals, concrete",
         "Description": "Two recycled metal bio-mechanical Pelicans bolt fixed onto a derelict concrete and iron river pylon near the Captain Cook Bridge.  ",
         "Installed": "1995",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.482012",
         "Longitude": "153.029325"
     },
@@ -425,6 +463,7 @@ var dataMain = [
         "Material": "steel",
         "Description": "These sculptures stand as guardians or beacons of both the river and the ferry, and reference the Story Bridge and boats. ",
         "Installed": "1995",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.471225",
         "Longitude": "153.034475"
     },
@@ -436,6 +475,7 @@ var dataMain = [
         "Material": "stainless steel",
         "Description": "Metal flower on stem with solar powered panels on its petals that make it spin. ",
         "Installed": "1995",
+        "Url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae070c7f-068d-4e5c-adf5-baf6760c9a2b/7b60aecd-7287-4e8d-8112-1f212d260402.png",
         "Latitude": "-27.473222",
         "Longitude": "153.034222"
     }
